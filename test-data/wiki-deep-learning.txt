@@ -1,0 +1,3 @@
+Apprendimento profondo
+
+L'apprendimento profondo è quel campo di ricerca dell'apprendimento automatico e dell'intelligenza artificiale (IA) che si basa su diversi livelli di rappresentazione, corrispondenti a gerarchie di caratteristiche di fattori o concetti, dove i concetti di alto livello sono definiti sulla base di quelli di basso.

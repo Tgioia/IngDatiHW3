@@ -1,0 +1,3 @@
+Rete di computer
+
+Una rete di computer o rete informatica è un tipo di rete di telecomunicazioni a commutazione di pacchetto caratterizzata da un insieme di apparati e dispositivi hardware con opportuni software di commutazione, ossia nodi di commutazione collegati l'uno con l'altro da appositi canali di comunicazione (link), tali da fornire un servizio di comunicazione che permette lo scambio e la condivisione di dati e la comunicazione tra più utenti o dispositivi distribuiti o terminali (host): i dati vengono trasmessi e trasferiti sotto forma di pacchetti dati, composte da un header e un body, il tutto regolato da precisi protocolli di rete.

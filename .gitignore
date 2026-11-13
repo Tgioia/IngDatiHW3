@@ -1,0 +1,7 @@
+.gradle/
+build/
+lucene-index/
+*.class
+*.jar
+.idea/
+*.iml

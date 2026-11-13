@@ -1,0 +1,6 @@
+L'intelligenza artificiale è una branca dell'informatica che studia la creazione di sistemi capaci di simulare l'intelligenza umana.
+Il machine learning è un sottoinsieme dell'intelligenza artificiale che consente ai computer di apprendere dai dati.
+Il deep learning utilizza reti neurali profonde per elaborare grandi quantità di dati.
+Applicazioni comuni includono il riconoscimento vocale, la traduzione automatica e i veicoli autonomi.
+L'intelligenza artificiale sta trasformando settori come la medicina, la finanza e l'industria manifatturiera.
+I modelli di linguaggio di grandi dimensioni come GPT e BERT hanno rivoluzionato il campo dell'elaborazione del linguaggio naturale.

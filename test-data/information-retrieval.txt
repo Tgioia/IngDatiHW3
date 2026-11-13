@@ -1,0 +1,9 @@
+Information retrieval is the science of searching for information in documents and databases.
+Apache Lucene is a high-performance, full-featured text search engine library written in Java.
+The inverted index is the core data structure used in information retrieval systems for efficient text search.
+TF-IDF and BM25 are two fundamental ranking models used to score document relevance.
+Elasticsearch is a distributed search engine built on top of Apache Lucene for scalable full-text search.
+Natural language processing techniques are increasingly integrated with information retrieval systems.
+Query expansion and relevance feedback are techniques used to improve search accuracy and recall.
+The precision and recall metrics are fundamental for evaluating information retrieval systems performance.
+Vector search and dense retrieval methods are the new frontier of modern information retrieval.

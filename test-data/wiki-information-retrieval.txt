@@ -1,0 +1,3 @@
+Information retrieval
+
+L'information retrieval (IR), talvolta, meno di frequente, reso in lingua italiana come reperimento dell'informazione, è l'insieme delle tecniche utilizzate per gestire la rappresentazione, la memorizzazione, l'organizzazione e l'accesso ad oggetti contenenti informazioni quali documenti, pagine web, cataloghi online e oggetti multimediali. Il termine è stato coniato da Calvin Mooers alla fine degli anni quaranta del Novecento ed oggi è usato quasi esclusivamente in ambito informatico.

@@ -1,0 +1,8 @@
+Java è un linguaggio di programmazione orientato agli oggetti sviluppato da Sun Microsystems nel 1995.
+Il principio fondamentale di Java è "write once, run anywhere" grazie alla Java Virtual Machine.
+Java è ampiamente utilizzato per lo sviluppo di applicazioni enterprise, sistemi Android e servizi web.
+Le caratteristiche principali di Java includono la gestione automatica della memoria tramite il garbage collector.
+Il framework Spring è diventato lo standard de facto per lo sviluppo di applicazioni Java enterprise.
+Apache Lucene, scritto in Java, è una delle librerie di information retrieval più utilizzate al mondo.
+Java supporta la programmazione multithread, permettendo l'esecuzione simultanea di più processi.
+Le versioni recenti di Java hanno introdotto features come i record, le sealed classes e il pattern matching.

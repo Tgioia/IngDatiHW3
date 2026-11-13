@@ -1,0 +1,3 @@
+C (linguaggio di programmazione)
+
+C è un linguaggio di programmazione a uso generale di natura imperativa e procedurale creato da Dennis Ritchie negli anni 1970. Tutt'oggi influente, è largamente adoperato nei sistemi operativi, nei driver e nelle pile di protocolli, mentre è in diminuzione il suo uso nelle applicazioni. C è comunemente usato in architetture che vanno dai più grandi supercalcolatori fino ai minuscoli microcontrollori e sistemi integrati.

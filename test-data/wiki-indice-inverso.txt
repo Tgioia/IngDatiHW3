@@ -1,0 +1,3 @@
+Dizionario inverso
+
+Il dizionario inverso è un'opera lessicografica affine ai comuni dizionari, dai quali si distingue per la particolarità dell'ordine in cui sono esposti i lemmi. In esso, infatti, le voci di dizionario sono esposte secondo l'ordine alfabetico ottenuto invertendo le stringhe di grafemi che costituiscono la parola. Ad esempio, le parole babà, fiaba, sillaba, sono "vicine" nell'ordine di in un dizionario inverso, mentre sono "lontane" nel consueto ordine alfabetico dei comuni dizionari.

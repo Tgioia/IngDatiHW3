@@ -1,0 +1,3 @@
+Linux
+
+Linux, è la denominazione impropria ma comune con cui sono conosciuti i sistemi operativi liberi Unix-like GNU/Linux, che combinano il sistema operativo GNU con il kernel Linux ed altri componenti software in forma di distribuzioni. Oggi, molte importanti società nel campo dell'informatica come Google, Microsoft, Amazon, IBM, Oracle, Hewlett-Packard, Red Hat, Canonical, Novell e Valve sviluppano e pubblicano sistemi Linux. Un esempio molto conosciuto è Ubuntu di Canonical, il cui codice sorgente deriva da Debian.

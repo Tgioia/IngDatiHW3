@@ -1,0 +1,3 @@
+Calcolatore
+
+Una macchina calcolatrice, comunemente chiamata calcolatore, è una macchina da calcolo in grado di eseguire l'intero processo di calcolo relativo ad uno o più calcoli matematici. Essendo in grado di eseguire l'intero processo di calcolo, i calcolatori sono in assoluto gli strumenti di calcolo più evoluti. I calcolatori più avanzati sono in grado di eseguire quantità notevoli di calcoli matematici in completa autonomia, avendo capacità di calcolo superiori a quelle dell'essere umano.

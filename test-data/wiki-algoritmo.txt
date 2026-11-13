@@ -1,0 +1,3 @@
+Algoritmo
+
+In matematica e informatica un algoritmo è la specificazione di una sequenza finita di operazioni che consente di risolvere tutti i quesiti di una stessa classe o di calcolare il risultato di un'espressione matematica.

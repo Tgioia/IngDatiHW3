@@ -1,0 +1,6 @@
+Structured Query Language
+
+Structured Query Language o in breve SQL è un linguaggio standardizzato per database basati sul modello relazionale (RDBMS), progettato per le seguenti operazioni:creare e modificare schemi di database ;
+inserire, modificare e gestire dati memorizzati ;
+interrogare i dati memorizzati ;
+creare e gestire strumenti di controllo e accesso ai dati.

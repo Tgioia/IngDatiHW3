@@ -1,0 +1,3 @@
+Base di dati
+
+In informatica una base di dati o banca dati è una collezione organizzata di dati in forma elettronica.

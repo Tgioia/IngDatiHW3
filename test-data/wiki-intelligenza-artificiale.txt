@@ -1,0 +1,3 @@
+Intelligenza artificiale
+
+L'intelligenza artificiale è il termine ombrello che indica l'insieme delle capacità il cui svolgimento richiederebbe normalmente un intelletto naturale, ma che possono essere simulate, in tutto o in parte, da un sistema artificiale. In ambito informatico, l'IA è anche la disciplina e il campo di ricerca, a cavallo tra ingegneria, matematica e informatica, che sviluppa metodi e software capaci di far percepire alle macchine il proprio ambiente, apprendere dall'esperienza, adattarsi a nuovi input e agire in modo da massimizzare le possibilità di raggiungere obiettivi definiti, svolgendo compiti come il riconoscimento vocale, la traduzione linguistica e la visione artificiale.
